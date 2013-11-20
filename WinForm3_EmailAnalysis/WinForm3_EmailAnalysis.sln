@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm3_EmailAnalysis", "WinForm3_EmailAnalysis\WinForm3_EmailAnalysis.csproj", "{423D810B-4592-4C6C-8BC3-A03C0182928B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm3_Account", "WinForm3_Account\WinForm3_Account.csproj", "{096C1444-8239-4485-9142-82A88EAB801D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{423D810B-4592-4C6C-8BC3-A03C0182928B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423D810B-4592-4C6C-8BC3-A03C0182928B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423D810B-4592-4C6C-8BC3-A03C0182928B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423D810B-4592-4C6C-8BC3-A03C0182928B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{096C1444-8239-4485-9142-82A88EAB801D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096C1444-8239-4485-9142-82A88EAB801D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096C1444-8239-4485-9142-82A88EAB801D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096C1444-8239-4485-9142-82A88EAB801D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

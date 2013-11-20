@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title></title>
+    <script type="text/javascript">
+
+        var leftSeconds = 3;
+        setInterval(function() {
+            if (leftSeconds <= 0) {
+                window.location.href = "Default.aspx";
+            }
+            leftSeconds = leftSeconds - 3; 
+
+        }, 3000);
+    
+    </script>
+</head>
+<body>
+请先登陆！如果页面3秒钟后没有自动跳转请<a href="Default.aspx">点击这里！</a>
+</body>
+</html>

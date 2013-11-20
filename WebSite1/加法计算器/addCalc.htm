@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <form method="post" action="addCalc.ashx">
+        <input type="hidden" name="ispostback" value="true" />
+        <input type="text" value="@num1" name="num1" /><br />
+        +<br>
+        <input type="text" value="@num2" name="num2" /><br />
+        <input type="submit" value="=" /><br />
+        <input type="text" value="@result" />
+        
+    </form>
+</body>
+</html>

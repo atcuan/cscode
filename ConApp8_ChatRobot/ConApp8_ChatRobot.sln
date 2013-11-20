@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConApp8_ChatRobot", "ConApp8_ChatRobot\ConApp8_ChatRobot.csproj", "{EF4E82E2-8647-4395-8B30-1A93B734A8DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF4E82E2-8647-4395-8B30-1A93B734A8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4E82E2-8647-4395-8B30-1A93B734A8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4E82E2-8647-4395-8B30-1A93B734A8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4E82E2-8647-4395-8B30-1A93B734A8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

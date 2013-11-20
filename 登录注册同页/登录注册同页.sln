@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Web Developer Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "登录注册同页", "登录注册同页\登录注册同页.csproj", "{35E56985-C05A-4CC2-B3DC-E4C0BD21D6DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35E56985-C05A-4CC2-B3DC-E4C0BD21D6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E56985-C05A-4CC2-B3DC-E4C0BD21D6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E56985-C05A-4CC2-B3DC-E4C0BD21D6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E56985-C05A-4CC2-B3DC-E4C0BD21D6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
